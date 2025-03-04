@@ -62,6 +62,7 @@
     "algorithm": "cpp",
     "ostream": "cpp",
     "functional": "cpp",
-    "new": "cpp"
+    "new": "cpp",
+    "stack": "cpp"
   }
 }
